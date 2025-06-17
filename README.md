@@ -45,7 +45,7 @@ ETHAN (Ethereum Transaction Hierarchical Analysis Network) is a state-of-the-art
 - 100GB+ free disk space for datasets
 
 ### Step 1: Clone Repository
-git clone https://anonymous.4open.science/r/ETHAN-464A.git
+git clone [https://anonymous.4open.science/r/ETHAN-464A.git](https://anonymous.4open.science/r/ETHAN-DE41/README.md)
 cd ETHAN-464A
 
 ### Step 2: Create Virtual Environment
